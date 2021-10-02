@@ -22,6 +22,7 @@ public class TodoDTO {
     }
 
     public static TodoEntity todoEntity(final TodoDTO dto){
+        System.out.println("dto = " + dto);
         return TodoEntity.builder()
                 .id(dto.getId())
                 .title(dto.getTitle())
