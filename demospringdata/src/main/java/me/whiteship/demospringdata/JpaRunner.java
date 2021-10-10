@@ -18,11 +18,20 @@ public class JpaRunner implements ApplicationRunner {
 
     @Override
     public void run(ApplicationArguments args) throws Exception {
-        Account account = new Account();
-        account.setUsername("keesun");
-        account.setPassword("hibernate");
+        // JPA 프로그래밍 5. 엔티티 상태와 Cascade
+        Post post = new Post();
+        post.setTitle("Spring Data JPA 언제 보나...");
+
+        Comment comment = new Comment();
+        comment.setComment("빨리 보고 싶어요.");
+        post.addComment(comment);
+
+        Comment comment1 = new Comment();
+        comment1.setComment("곧 보여드릴게요.");
+        post.addComment(comment1);
 
         Session session = entityManager.unwrap(Session.class);
-        session.save(account);
+        session.save(post);
+
     }
 }
