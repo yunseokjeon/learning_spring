@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82b38b5b-b976-4148-8c58-cf573b321cfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hellojpa/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hellojpa/RoleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/JpaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/mysql+mybatis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/src/main/java/com/example/mybatis/MybatisApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/src/main/java/com/example/mybatis/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/src/main/java/com/example/mybatis/dao/UserDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/src/main/java/com/example/mybatis/dto/UserDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/src/main/resources/mappers/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/src/main/resources/sql/lab03.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mybatis/src/test/java/com/example/mybatis/MybatisApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="82b38b5b-b976-4148-8c58-cf573b321cfd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,13 +13,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -92,6 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jpashop" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RunManager">
@@ -124,6 +82,7 @@
       <updated>1634354544029</updated>
       <workItem from="1634354549523" duration="5498000" />
       <workItem from="1634372058200" duration="4958000" />
+      <workItem from="1634462826483" duration="4905000" />
     </task>
     <servers />
   </component>
