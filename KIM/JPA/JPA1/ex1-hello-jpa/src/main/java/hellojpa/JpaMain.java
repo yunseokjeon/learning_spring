@@ -22,8 +22,6 @@ public class JpaMain {
             member.setUsername("member1");
             em.persist(member);
 
-            team.addMember(member);
-
             em.flush();
             em.clear();
 
