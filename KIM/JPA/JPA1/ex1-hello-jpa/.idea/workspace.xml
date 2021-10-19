@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82b38b5b-b976-4148-8c58-cf573b321cfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hellojpa/Locker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/DeliveryStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hellojpa/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hellojpa/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hellojpa/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hellojpa/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpashop/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jpashop/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/JpaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/JpaMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/domain/OrderItem.java" afterDir="false" />
-    </list>
+    <list default="true" id="82b38b5b-b976-4148-8c58-cf573b321cfd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jpashop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../First" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
@@ -105,6 +85,7 @@
       <workItem from="1634462826483" duration="4905000" />
       <workItem from="1634520821656" duration="1094000" />
       <workItem from="1634522090609" duration="2765000" />
+      <workItem from="1634549494702" duration="6000" />
     </task>
     <servers />
   </component>
