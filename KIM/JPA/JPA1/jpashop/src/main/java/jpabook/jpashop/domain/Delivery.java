@@ -7,6 +7,10 @@ import static javax.persistence.FetchType.*;
 @Entity
 public class Delivery extends BaseEntity{
 
+    /*
+    JPA에서 칼럼명을 생성하는 관례가 있습니다.
+    Delivery클래스에 id라는 이름을 가지는 멤버변수가 있다면 DELIVERY_ID로 칼럼명을 생성합니다.
+     */
     @Id
     @GeneratedValue
     private Long id;
